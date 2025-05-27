@@ -504,7 +504,6 @@
          std::cout << "  cpuinfo -a        Show comprehensive CPU report" << std::endl;
          std::cout << "  cpuinfo -l        Show CPU information with load" << std::endl;
          std::cout << std::endl;
-         std::cout << "Report cpuinfo bugs to: <support@qco-utils.org>" << std::endl;
          std::cout << "QCO InfoUtils home page: <https://github.com/Qainar-Projects/infoutils>" << std::endl;
      }
  

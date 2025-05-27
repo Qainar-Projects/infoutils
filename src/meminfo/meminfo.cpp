@@ -354,7 +354,6 @@
          std::cout << "  meminfo -a        Show comprehensive memory report" << std::endl;
          std::cout << "  meminfo -p        Show memory usage with top processes" << std::endl;
          std::cout << std::endl;
-         std::cout << "Report meminfo bugs to: <support@qco-utils.org>" << std::endl;
          std::cout << "QCO InfoUtils home page: <https://github.com/Qainar-Projects/infoutils>" << std::endl;
      }
  

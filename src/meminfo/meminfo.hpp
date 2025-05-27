@@ -217,7 +217,6 @@
      constexpr const char* AUTHOR = "AnmiTaliDev";
      constexpr const char* LICENSE = "Apache 2.0";
      constexpr const char* ORGANIZATION = "QCO InfoUtils";
-     constexpr const char* SUPPORT_EMAIL = "support@qco-utils.org";
      constexpr const char* HOMEPAGE = "https://github.com/Qainar-Projects/infoutils";
  }
  
